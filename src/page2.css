@@ -28,7 +28,8 @@
     color: rgb(163, 189, 166);
 }
 
-.content {   
+.content {  
+    font-size: .7rem; 
     width: 100px;
     text-align: justify;
     
@@ -90,4 +91,8 @@
 
 .but_3 {
     border-color: rgb(10, 10, 90);
+}
+
+.coloum {
+    width: 100%;
 }

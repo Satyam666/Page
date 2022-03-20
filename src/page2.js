@@ -61,7 +61,7 @@ function page2() {
                     </div>
                     
                 </div>
-                <div className='sectio_1'>
+                <div className='section_1'>
                     <div className='title_num'>
                         <p>8,679</p>
                     </div>

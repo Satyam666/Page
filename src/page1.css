@@ -2,15 +2,17 @@
     padding: 40px;
     justify-content: space-between;
     display: flex;
+    padding-left: 100px
 }
 
-.section {
+.section_p {
     padding-bottom: 40px;
     justify-content: space-between;
+    width: 500px;
 }
 
-.coloum {
-    width: 100%;
+.coloum_p {
+    width: 200%;
 }
 
 .title {
@@ -19,8 +21,9 @@
     margin-bottom: 20px;
 }
 
-.content {
+.content_p {
     font-size: .7rem;
+    width: 200px;
 }
 
 .light_circle {
@@ -28,8 +31,8 @@
     height: 10px !important;
 }
 
-.content ul li {
-    width: 100%;
+.content_p ul  {
+    width: max-content;
 }
 
 .title1 {

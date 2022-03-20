@@ -5,23 +5,23 @@ import Stepper from './stepper';
 function page1() {
   return (
     <div className='main_1'>
-        <div className='coloum'>
-            <div className='section'>
+        <div className='coloum_p'>
+            <div className='section_p'>
                     <div className='title'>
                         <p>DESCRIPTION</p>
                     </div>
 
-                    <div className='content'>
+                    <div className='content_p'>
                         <p>There's one simple reason we call this our everyday
                            oxford; we wear them pretty much every single day</p>
                     </div>
             </div>
-            <div className='section'>
+            <div className='section_p'>
                     <div className='title'>
                         <p>MATERIAL</p>
                     </div>
 
-                    <div className='content'>
+                    <div className='content_p'>
                         <p>Just the right amount of sturdy for year round wear, 
                             Soft to the touch but built for a decade of solid wear. 
                             Ondoed is a perfectly versatile fabric that looks 
@@ -31,12 +31,12 @@ function page1() {
                             use a drog A better shirt, responsibly built for the long haul.</p>
                     </div>
             </div>
-            <div className='section'>
+            <div className='section_p'>
                     <div className='title'>
                         <p>GARMENT WEIGHT</p>
                     </div>
 
-                    <div className='content'>
+                    <div className='content_p'>
                         <p>Your daily driver, Burlier than the average button up.</p>
                     </div>
                     
@@ -46,12 +46,12 @@ function page1() {
         </div>
 
         <div className='coloum'>
-            <div className='section'>
+            <div className='section_p'>
                 <div className='title1'>
                     <p>SPECIFICATIONS</p>
                 </div>
 
-                <div className='content'>
+                <div className='content_p'>
                     <ul>
                         <li><p>6-ce 100% organic cotton.</p></li>
                         <li><p>Made from our burly rugby axford</p></li>
@@ -72,12 +72,12 @@ function page1() {
         </div>
 
         <div className='coloum'>
-            <div className='section'>
+            <div className='section_p'>
                 <div className='title'>
                     <p>ESSENTIAL</p>
                 </div>
 
-                <div className='content'>
+                <div className='content_p'>
                     <p>This product is a Taylor Stitch Essential that we aim to 
                         always keep in stock. Essentials are our tried and true products 
                         that we wear damn near everyday. If your size is currently out of 
